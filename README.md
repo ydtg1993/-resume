@@ -33,6 +33,11 @@
     酷漫http://www.kuman.com/
     个人开发个composer库 https://github.com/ydtg1993/dendrogram
     熟练使用docker环境部署 个人博客https://laravel-china.org/articles/19504
+    
+### 技术栈汇总
+<p align="center">
+<img src="https://github.com/ydtg1993/-resume/blob/master/technology.png" alt="technology">
+</p>
 
 ### 工作履历
 <p align="center">
