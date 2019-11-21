@@ -20,3 +20,11 @@
 <p align="center">
 <img src="https://github.com/ydtg1993/-resume/blob/master/journey.png" alt="journey">
 </p>
+
+### 教育程度
+    2012/08 - 2014/08   四川职业技术学院  土木工程   专科 
+### 语言能力
+    日语：读写能力 一般
+    英语：读写能力 熟练
+
+    
