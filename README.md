@@ -29,6 +29,8 @@
     从事过pc h5 微信公众号的相关前端开发工作。用laravel开发过玩转app接口服务。星耀支付盘口系统的独立开发,
     熟悉docker容器部署 搭建过mysql小集群做过读写分离冷热备份异地容灾。了解点java基础,做过相关四方支付对接。
     golang做过并发微服务,H漫画网站爬虫。react框架做快三游戏前端开发。
+    在面对项目需求时可以在几种语言中切换，从不同层面上分析解决方案。也期望有机会能加入更有水准的团对,在更有挑战的
+    项目中学习成长
     
     酷漫http://www.kuman.com/
     个人开发个composer库 https://packagist.org/packages/dendrogram/dendrogram
